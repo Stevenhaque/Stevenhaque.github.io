@@ -1,1 +1,1 @@
-A Basic restaurant menu bar
+A Basic restaurant menu bar or navigation bar.
